@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* text-align: center; */
+}
+.container{
+    /* margin-top: 30px; */
+    width: 430px;
+    height: 932px;
+    
+}
+
+
+
+
+
+.pic{
+    margin-top: 30px;
+  width: 337.5px;
+  height: 350px;
+  margin-left:42px;
+}
+.picture{
+    /* margin-left: 27px; */
+  width: 100%;
+}
+.loginpg{
+    width: 430px;
+    height: 453px;
+    background-color: yellow;
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+#Username{
+    border-style: none;
+    border-radius: 10px;
+    height: 57px;
+    width: 394px;
+}
+#pswd{
+    border-style: none;
+    border-radius: 10px;
+    height: 57px;
+    width: 394px;
+}
+.btn{
+    height: 59px;
+    width: 252px;
+    border-style: none;
+    border-radius: 20px;
+    color: white;
+    background-color: blueviolet;
+}
+::placeholder{
+    color: black;
+    font-size: large;
+}
